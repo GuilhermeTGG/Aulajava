@@ -6,7 +6,9 @@ const segundoNumero = 5;
 //console.log(primeiroNumero === segundoNumero);
 
 const texto1 = "Alura";
-const texto2 = "A";
+const texto2 = "alura";
 
 console.log(texto1 === texto2);
+
+//continua sendo false mesmo com apenas a letra maiúscula diferente.
 
